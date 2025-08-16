@@ -1,5 +1,5 @@
 import React from 'react'
-import noahImg from '../assets/matt.jpg' // TODO: replace with Matthew's headshot when available
+import noahImg from '../assets/matt.JPG' // TODO: replace with Matthew's headshot when available
 
 const Home = ({ setView }) => {
     return (
